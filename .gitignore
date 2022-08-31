@@ -1,0 +1,11 @@
+.idea
+*.iml
+.DS_Store
+private_constants.js
+config.js
+application.properties
+.env
+target
+logs
+*.class
+out/*
